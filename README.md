@@ -57,9 +57,3 @@ Contains scripts and assets related to animations for avatars and worlds in VRCh
 - **Scripts/**: Animation scripts and utilities for enhanced avatar/world interactions.
 
 ---
-
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone <repository_url>
