@@ -4,6 +4,7 @@ A collection of creations for VRChat, including assets, scripts, and tools. A hu
 ---
 
 ## Directory Structure
+```
 VRChatCreation
 ─Assets
 │  ├─iwaSync3_v3.6.8
@@ -18,7 +19,7 @@ VRChatCreation
 ├─VRChatProject
 └─WorldAvatarAnimation
     └─Scripts
-
+```
 ---
 
 ## Directory Descriptions
